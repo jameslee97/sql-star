@@ -1,2 +1,2 @@
-# sql-star
+# star-sql
 Personal project for sql training
